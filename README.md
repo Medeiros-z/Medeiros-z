@@ -5,7 +5,7 @@
 - In my free time, I enjoy playing the trombone, cooking, camping, and exploring.
 
 ## Technical Knowledge
-- **Languages:** Java, Python, Lisp, C, Assembly, HTML/CSS
+- **Languages:** Java, Python, Lisp, C, Assembly
 - **Applications**: Eclipse IDE, Git, Replit, WSL, Windows PowerShell
 
 ## Connect With Me
