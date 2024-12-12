@@ -1,15 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Zack
 
-<!--
-**Medeiros-z/Medeiros-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently studying Computer Science at Northeastern University
+- In my free time, I enjoy playing the trombone, cooking, camping, and exploring.
 
-Here are some ideas to get you started:
+## Technical Knowledge
+- **Languages:** Java, Python, Lisp, C, Assembly, HTML/CSS
+- **Applications**: Eclipse IDE, Git, Replit, WSL, Windows PowerShell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn [linkedin.com/in/zackary-medeiros](https://linkedin.com/in/zackary-medeiros)
+- Email: [Personal](mailto:zackarym@comcast.net) | [School](mailto:medeiros.z@northeastern.edu)
+
