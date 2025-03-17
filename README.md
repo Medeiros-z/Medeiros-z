@@ -7,8 +7,8 @@
 
 ## Technical Knowledge
 - **Languages:** Java, Python, ACL2s, Racket, C, Assembly (x86_64, x86, RISC-V)
-- **Applications**: Eclipse IDE, IntelliJ IDEA, JUnit, Visual Studio Code, Git, Replit, Windows PowerShell
 - **Operating Systems**: Windows, WSL, Linux (Ubuntu, Arch)
+- **Development Tools**: Eclipse IDE, IntelliJ IDEA, Visual Studio Code, Git, JUnit, Swing (Java), Replit
 
 ## Connect With Me
 - LinkedIn [linkedin.com/in/zackary-medeiros](https://linkedin.com/in/zackary-medeiros)
