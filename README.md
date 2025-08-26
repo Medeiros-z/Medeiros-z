@@ -11,7 +11,7 @@
 - **Development Tools**: Eclipse IDE, IntelliJ IDEA, Visual Studio Code, Git, JUnit, Swing (Java), Replit
 
 ## Connect With Me
-- LinkedIn [linkedin.com/in/zackary-medeiros](https://linkedin.com/in/zackary-medeiros)
+- LinkedIn: [linkedin.com/in/zackary-medeiros](https://linkedin.com/in/zackary-medeiros)
 - Email: [Personal](mailto:zackarym@comcast.net) | [School](mailto:medeiros.z@northeastern.edu)
 
 ## Stats
