@@ -14,3 +14,12 @@
 - LinkedIn [linkedin.com/in/zackary-medeiros](https://linkedin.com/in/zackary-medeiros)
 - Email: [Personal](mailto:zackarym@comcast.net) | [School](mailto:medeiros.z@northeastern.edu)
 
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medeiros-z&show_icons=true&theme=github_dark)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeiros-z&layout=compact&theme=github_dark)
+
+
+
+
