@@ -6,9 +6,9 @@
 - In my free time, I enjoy playing the trombone, cooking, camping, and exploring.
 
 ## Technical Knowledge
-- **Languages:** Java, Python, C/C++, ACL2s, Racket, Assembly (x86_64, x86, RISC-V)
+- **Languages:** Java, Python, C/C++, JavaScript, TypeScript, MERN Stack (MongoDB, Express.js, React.js, Node.js), Lisp (ACL2s, Racket), Assembly (x86_64, x86, RISC-V)
 - **Operating Systems**: Windows, WSL, Linux (Ubuntu, Arch)
-- **Development Tools**: IntelliJ IDEA, Visual Studio Code, Eclipse IDE, Git, JUnit, Swing (Java), Replit
+- **Development Tools**: IntelliJ IDEA, Visual Studio Code, Eclipse IDE, Git, Notepad++, JUnit, Replit
 
 ## Connect With Me
 - LinkedIn: [linkedin.com/in/zackary-medeiros](https://linkedin.com/in/zackary-medeiros)
